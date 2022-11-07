@@ -26,10 +26,5 @@ This service enables to make buying decison for an organization based on the giv
 We can add advanced search and filter capabilities by incorporating OR (||) operations and also include mechansims to validate attributes of products. Exception handling and validation can also be refined to a deeper level and also adding unit test cases. 
 
 
-### Screenshots :
-
-![image](https://user-images.githubusercontent.com/30754286/200438985-367c52c5-e35c-4348-8043-4635e39fc370.png)
-
-
 
 
