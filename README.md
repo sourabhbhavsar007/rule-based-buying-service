@@ -28,7 +28,8 @@ We can add advanced search and filter capabilities by incorporating OR (||) oper
 
 ### Screenshots :
 
-![image](https://user-images.githubusercontent.com/30754286/200438237-91354f72-5dbf-4c1c-a4cd-b287ef4124b2.png)
+![image](https://user-images.githubusercontent.com/30754286/200438985-367c52c5-e35c-4348-8043-4635e39fc370.png)
+
 
 
 
