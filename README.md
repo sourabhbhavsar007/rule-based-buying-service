@@ -24,3 +24,11 @@ This service enables to make buying decison for an organization based on the giv
 ### Future Scope :
 
 We can add advanced search and filter capabilities by incorporating OR (||) operations and also include mechansims to validate attributes of products. Exception handling and validation can also be refined to a deeper level and also adding unit test cases. 
+
+
+### Screenshots :
+
+![image](https://user-images.githubusercontent.com/30754286/200438237-91354f72-5dbf-4c1c-a4cd-b287ef4124b2.png)
+
+
+
